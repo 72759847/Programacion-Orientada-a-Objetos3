@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Rostro
+comment1.params=region
+comment1.target=void\ addRegion(Region)
+comment2.params=
+comment2.target=java.util.List\ getRegiones()
+numComments=3

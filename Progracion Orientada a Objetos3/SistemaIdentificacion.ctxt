@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SistemaIdentificacion
+comment1.params=rostro
+comment1.target=void\ addRostro(Rostro)
+comment2.params=
+comment2.target=java.util.List\ getRostros()
+numComments=3
